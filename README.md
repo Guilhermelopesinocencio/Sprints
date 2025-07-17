@@ -2,16 +2,16 @@
 
 Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software na UNIFAN.
 
-## Tecnologias que estou estudando
+## 💻Tecnologias que estou estudando
 - HTML5, CSS3
 - SQL
 - Banco de dados relacional (modelagem e normalização)
 - Python
 
-## Projetos em andamento
-- Uma pagina de Venda de Café
+## 🚀Projetos em andamento
+- Uma pagina de Venda de Café 
 
-## Ferramentas
+## 🛠️Ferramentas
 - VS Code
 - GitHub
 - MySQL / SQLite
@@ -20,5 +20,7 @@ Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software n
 ## Como me encontrar
 - 📧 [E-mail](mailto:guilhermelopesinocencio@gmail.com)
 - 💼 [GitHub][github]
+- 📂 [COFFE-PAGE][Projeto]
 
 [github]: https://github.com/Guilhermelopesinocencio
+[Projeto]: https://github.com/Guilhermelopesinocencio/COFFE-PAGE
