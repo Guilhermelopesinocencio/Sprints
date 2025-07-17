@@ -9,7 +9,7 @@ Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software n
 - Python
 
 ## 🚀Projetos em andamento
-- [COFFE-PAGE][Projeto] Uma pagina de Venda de Café
+- [COFFE-PAGE][Projeto]
 [Projeto]: https://github.com/Guilhermelopesinocencio/COFFE-PAGE
 
 ## 🛠️Ferramentas
