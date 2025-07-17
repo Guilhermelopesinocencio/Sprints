@@ -10,7 +10,6 @@ Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software n
 
 ## 🚀Projetos em andamento
 - [COFFE-PAGE][Projeto]
-[Projeto]: https://github.com/Guilhermelopesinocencio/COFFE-PAGE
 
 ## 🛠️Ferramentas
 - VS Code
@@ -23,3 +22,4 @@ Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software n
 - 💼 [GitHub][github]
 
 [github]: https://github.com/Guilhermelopesinocencio
+[Projeto]: https://github.com/Guilhermelopesinocencio/COFFE-PAGE
