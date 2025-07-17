@@ -18,7 +18,7 @@ Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software n
 - Figma
 
 ## Como me encontrar
-[E-mail][1]
-[1]: guilhermelopesinocencio@gmail.com
-[Guilhermelopesinocencio][2]
-[2]: https://guithub.com/Guilhermelopesinocencio)
+- 📧 [E-mail](mailto:guilhermelopesinocencio@gmail.com)
+- 💼 [GitHub][github]
+
+[github]: https://github.com/Guilhermelopesinocencio
