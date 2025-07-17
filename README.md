@@ -9,7 +9,8 @@ Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software n
 - Python
 
 ## 🚀Projetos em andamento
-- Uma pagina de Venda de Café 
+- [COFFE-PAGE][Projeto] Uma pagina de Venda de Café
+[Projeto]: https://github.com/Guilhermelopesinocencio/COFFE-PAGE
 
 ## 🛠️Ferramentas
 - VS Code
@@ -20,7 +21,5 @@ Desenvolvedor em formação, cursando o 3° semestre de Engenharia de Software n
 ## Como me encontrar
 - 📧 [E-mail](mailto:guilhermelopesinocencio@gmail.com)
 - 💼 [GitHub][github]
-- 📂 [COFFE-PAGE][Projeto]
 
 [github]: https://github.com/Guilhermelopesinocencio
-[Projeto]: https://github.com/Guilhermelopesinocencio/COFFE-PAGE
